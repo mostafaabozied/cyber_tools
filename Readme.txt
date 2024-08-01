@@ -244,5 +244,230 @@ Port Scanning Tools 🌐🔥
    🔹 Yujianportscan - A Fast Port Scanner GUI Tools Build by VB.NET + IOCP
 🔗https://github.com/foryujian/yujianportscan
 
+🧅Tor Tools
+
+🔹Nipe - Script to redirect all traffic from the machine to the Tor network.
+🔗https://github.com/GouveaHeitor/nipe
+
+🔹OnionScan - Tool for investigating the Dark Web by finding operational security issues introduced by Tor hidden service operators.
+🔗https://onionscan.org/
+
+🔹Tails - Live operating system aiming to preserve your privacy and anonymity.
+🔗https://tails.boum.org/
+
+🔹Tor - Free software and onion routed overlay network that helps you defend against traffic analysis.
+🔗https://www.torproject.org/
+
+🔹dos-over-tor - Proof of concept denial of service over Tor stress test tool.
+🔗https://github.com/skizap/dos-over-tor
+
+🔹kalitorify - Transparent proxy through Tor for Kali Linux OS.
+🔗https://github.com/brainfuckSec/kalitorify
+
+
    🔹 Naabu - A fast port scanner written in go with a focus on reliability and simplicity
 🔗https://github.com/projectdiscovery/naabu
+
+OSINT | Reconnaissance | Information Gathering Tools 🕵️
+
+🔹Sherlock
+Hunt down social media accounts by username across social networks 
+🔗https://github.com/sherlock-project/sherlock
+
+🔹 Social-Analyzer
+API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+🔗https://github.com/qeeqbox/social-analyzer
+
+🔹 Phoneinfoga
+Information gathering framework for phone numbers
+🔗https://github.com/sundowndev/phoneinfoga
+
+🔹 Spiderfoot
+SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
+🔗https://github.com/smicallef/spiderfoot
+
+🔹Photon 
+Incredibly fast crawler designed for OSINT
+🔗https://github.com/s0md3v/Photon
+
+🔹 Owasp Amass
+The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+🔗https://github.com/owasp-amass/amass
+
+🔹theHarvester
+theHarvester is a simple to use, yet powerful tool designed to be used during the reconnaissance stage of a red team assessment or penetration test.
+🔗https://github.com/laramies/theHarvester
+
+🔹 Shodan
+Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
+🔗https://www.shodan.io/
+
+🔹Osmedeus Core Engine
+A Workflow Engine for Offensive Security
+🔗https://github.com/j3ssie/osmedeus
+
+🔹Infoga - Email OSINT
+Infoga is a tool gathering email accounts informations (ip,hostname,country,...) from different public source (search engines, pgp key servers and shodan) and check if emails was leaked using haveibeenpwned.com API.
+🔗https://github.com/m4ll0k/Infoga
+
+🔹Th3inspector
+All in one tool for Information Gathering
+🔗https://github.com/Moham3dRiahi/Th3inspector
+
+🔹ReconSpider
+ReconSpider is most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations and find out information from different sources.
+🔗https://github.com/bhavsec/reconspider
+
+🔹Mr.Holmes
+🔍 A Complete Osint Tool
+🔗https://github.com/Lucksi/Mr.Holmes
+
+🔹CrimeFlare
+This tools can help you to see the real IP behind CloudFlare protected websites
+🔗https://github.com/zidansec/CloudPeler
+
+🔹 WhatWeb
+Next generation web scanner
+🔗https://github.com/urbanadventurer/WhatWeb
+
+CMS & Framwork Identification Tools 🕵️
+
+   🔹 AngelSword - CMS vulnerability detection framework 🔒
+🔗https://github.com/Lucifer1993/AngelSword
+
+   🔹 WhatWeb - Next generation web scanner
+🔗https://github.com/urbanadventurer/WhatWeb
+
+   🔹 Wappalyzer - Cross-platform utility that uncovers the technologies used on websites
+🔗https://github.com/AliasIO/Wappalyzer
+
+   🔹 Whatruns - A free browser extension that helps you identify technologies used on any website at the click of a button (Just for chrome)
+🔗https://www.whatruns.com/
+
+   🔹 WhatCMS - CMS Detection and Exploit Kit based on Whatcms.org API
+🔗https://github.com/HA71/WhatCMS
+
+   🔹 CMSeeK - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs
+🔗https://github.com/Tuhinshubhra/CMSeeK
+
+   🔹 EHole - CMS Detection for RedTeam
+🔗https://github.com/EdgeSecurityTeam/EHole
+
+   🔹 ObserverWard - Cross platform community web fingerprint identification tool
+🔗https://github.com/0x727/ObserverWard
+
+   🔹  FingerprintHub - The Database of ObserverWard
+🔗https://github.com/0x727/FingerprintHub 
+
+    Online Tools 🌐
+
+    🔹Yunsee - Online website for to find the CMS footprint
+🔗http://www.yunsee.cn/
+
+    🔹Bugscaner - A simple online fingerprint identification system that supports hundreds of cms source code recognition
+🔗http://whatweb.bugscaner.com/look/
+
+    🔹WhatCMS online - CMS Detection and Exploit Kit 
+🔗https://whatcms.org/
+
+    🔹TideFinger - Fingerprinter Tool from TideSec Team 🔒
+🔗http://finger.tidesec.com/
+
+    🔹360finger-p - Fingerprinter Tool from 360 Team
+🔗https://fp.shuziguanxing.com/
+
+☣️Exploits 
+
+🔹 Exploit-DB - Exploit Database
+🔗https://www.exploit-db.com/ 
+
+🔹 Sploitus - Convenient central place for identifying the newest exploits
+🔗https://sploitus.com/ 
+
+🔹 Rapid7 - DB - Vulnerability & Exploit Database
+🔗https://www.rapid7.com/db/ 
+
+🔹 Vulmon - Vulnerability and exploit search engine
+🔗https://vulmon.com/ 
+
+🔹packetstormsecurity.com - Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers
+🔗https://packetstormsecurity.com/ 
+
+🔹0day.today - Ultimate database of exploits and vulnerabilities
+🔗https://0day.today/ 
+
+🔹LOLBAS - Living Off The Land Binaries, Scripts and Libraries
+🔗https://lolbas-project.github.io/ 
+
+🔹GTFOBins - Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+🔗https://gtfobins.github.io/ 
+
+🔹Payloads All The Things - A list of useful payloads and bypasses for Web Application Security
+🔗https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/ 
+
+🔹 XSS Payloads - The wonderland of JavaScript unexpected usages, and more
+🔗http://www.xss-payloads.com/ 
+
+🔹exploitalert.com - Database of Exploits
+🔗https://www.exploitalert.com/search-results.html 
+
+🔹Reverse Shell generator - Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode
+🔗https://www.revshells.com/ 
+
+🔹HackerOne hacktivity - See the latest hacker activity on HackerOne
+🔗https://hackerone.com/hacktivity 
+
+🔹Bugcrowd Crowdstream - Showcase of accepted and disclosed submissions on Bugcrowd programs
+🔗https://bugcrowd.com/crowdstream 
+
+🔹GTFOArgs - Curated list of Unix binaries that can be manipulated for argument injection
+🔗https://gtfoargs.github.io/ 
+
+🔹 Shell-storm.org/shellcode - Shellcodes database for study cases
+🔗https://shell-storm.org/shellcode/index.html 
+
+🔹Hacking the Cloud - Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure
+🔗https://hackingthe.cloud/ 
+
+🔹LOLDrivers - Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers
+🔗https://www.loldrivers.io/ 
+
+🔹PwnWiki - Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained
+🔗http://pwnwiki.io/ 
+
+🔹CVExploits Search - Your comprehensive database for CVE exploits from across the internet
+🔗https://cvexploits.io/
+
+
+💉SQL Injection Vulnerability Scanner Tool's 
+
+🔹SQLMap – Automatic SQL Injection And Database Takeover Tool
+🔗https://github.com/sqlmapproject/sqlmap 
+
+🔹jSQL Injection – Java Tool For Automatic SQL Database Injection
+🔗https://github.com/ron190/jsql-injection 
+
+🔹BBQSQL – A Blind SQL-Injection Exploitation Tool
+🔗https://github.com/Neohapsis/bbqsql
+
+🔹NoSQLMap – Automated NoSQL Database Pwnage
+🔗 https://github.com/codingo/NoSQLMap
+
+🔹Whitewidow – SQL Vulnerability Scanner
+🔗https://www.kitploit.com/2017/05/whitewidow-sql-vulnerability-scanner.html
+
+🔹DSSS – Damn Small SQLi Scanner
+🔗https://github.com/stamparm/DSSS 
+
+🔹explo – Human And Machine Readable Web Vulnerability Testing Format
+🔗https://github.com/dtag-dev-sec/explo
+
+🔹Blind-Sql-Bitshifting – Blind SQL-Injection via Bitshifting
+🔗https://github.com/awnumar/blind-sql-bitshifting
+
+🔹Leviathan – Wide Range Mass Audit Toolkit
+🔗https://github.com/leviathan-framework/leviathan 
+
+🔹Blisqy – Exploit Time-based blind-SQL-injection in HTTP-Headers (MySQL/MariaDB)
+🔗https://github.com/JohnTroony/Blisqy 
+
